@@ -1,5 +1,5 @@
                                                        // Proje Tarafından Yazılmıştır : MuratAlpTR // 
-// Kedi Kovucu Arduino Kodu
+
 // Ultrasonik sensör kullanarak hayvanları uzaklaştırma
 
 const int trigPin = 9; // Ultrasonik sensörün trig pini
