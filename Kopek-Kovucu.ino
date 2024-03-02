@@ -1,4 +1,4 @@
-                                                                                                                          // Proje Tarafından Yazılmıştır : MuratAlpTR // 
+                                                       // Proje Tarafından Yazılmıştır : MuratAlpTR // 
 
 // Köpek ve Kedi Kovucu Arduino Kodu
 // Ultrasonik sensör kullanarak hayvanları uzaklaştırma
@@ -45,4 +45,4 @@ void loop() {
   delay(500); // 0.5 saniye beklet
 }
 
-                                                                                                                          // Proje Tarafından Yazılmıştır : MuratAlpTR // 
+                                                       // Proje Tarafından Yazılmıştır : MuratAlpTR // 
