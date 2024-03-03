@@ -33,7 +33,7 @@ Kutu veya Kasa: Tüm parçaları bir araya getirmek ve korumak için bir kutu ve
 
 Proje Adı : " Kopek-Kovucu.ino "
 
-Arduino tabanlı bir köpek ve kedi kovucu oluşturmak için bazı temel parçaları satın almanız gerekecektir. İşte bu projede kullanabileceğiniz bazı parçalar:
+Arduino tabanlı bir köpek kovucu oluşturmak için bazı temel parçaları satın almanız gerekecektir. İşte bu projede kullanabileceğiniz bazı parçalar:
 
 
 Ultrasonik Sensör: Hayvanların yaklaşmasını algılamak için ultrasonik sensör kullanabilirsiniz. Bu sensör, mesafe ölçümü yaparak hayvanların ne kadar yakın olduğunu tespit eder.
